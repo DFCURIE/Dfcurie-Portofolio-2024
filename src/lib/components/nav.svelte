@@ -55,7 +55,7 @@
 {#await loadPagePromise then _}
 	<div class="nav-wrapper" style="transform: translate(0px);">
 		<!-- Logo -->
-		<div class="flex-wrapper ico" style="z-index: 25;">
+		<div class="flex-wrapper ico" style="z-index: 21;">
 			<button class="interactive clickable"
 				on:click={() => navigate($homeAnchor)}>
 
@@ -102,9 +102,6 @@
 						<li use:introAnimation={{ delay: 1300 }}>
 							<a href="https://github.com/DFCURIE" target="_blank" in:mobileTransitionSwitcher={{ delay: 400 }}>Github</a>
 						</li>
-						<li use:introAnimation={{ delay: 1400 }}>
-							<a href="https://www.linkedin.com/in/muhammad-difa-dhiyaul-haq-a40851234/" target="_blank" in:mobileTransitionSwitcher={{ delay: 450 }}>LinkedIn</a>
-						</li>
 					{/key}
 				</ul>
 			</div>
@@ -126,7 +123,6 @@
 		</div>
 	</div>
 {/await}
-
 
 
 
@@ -153,8 +149,8 @@ button.interactive
 
 	.flex-wrapper.ico
 		overflow: hidden
-		height: $logo-size
-		width: $logo-size
+		height: 6vh
+		width: 7vh
 		mix-blend-mode: exclusion
 		cursor: pointer
 
