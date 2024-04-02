@@ -28,6 +28,7 @@
 		"vite": "^5.0.12"
 	},
 	"dependencies": {
+		"@sveltejs/adapter-node": "^5.0.1",
 		"animejs": "^3.2.1",
 		"bezier-easing": "^2.1.0",
 		"detect-gpu": "^4.0.7",
