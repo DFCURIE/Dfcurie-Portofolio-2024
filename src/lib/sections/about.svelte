@@ -52,7 +52,7 @@
 		</h1>
 		<div in:maskSlideIn={{ duration: 1200, reverse: true, delay: 150 }}>
 		  <p class="paragraph">
-			I'm a web designer my real name is Difamuhammad. I specialize in designing and developing web experiences<br><br>Are you seeking to elevate your online presence with a stunning, adaptable, and scalable web solution? I specialize in crafting bespoke web products tailored precisely to your needs. Whether you're an organization or an individual, let's collaborate to create something extraordinary. Reach out to start the conversation via email!.
+			I'm a web designer my real name is Muhammad Difa Dhiyaul Haq. I specialize in designing and developing web experiences<br><br>Are you seeking to elevate your online presence with a stunning, adaptable, and scalable web solution? I specialize in crafting bespoke web products tailored precisely to your needs. Whether you're an organization or an individual, let's collaborate to create something extraordinary. Reach out to start the conversation via email!.
 		  </p>
 		</div>
 		<div class="social-button-wrapper">

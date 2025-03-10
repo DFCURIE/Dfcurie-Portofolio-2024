@@ -1,5 +1,67 @@
 [
     {
+        "id": "opt",
+        "title": "Workflow Automation",
+        "details": {
+            "description": "Optiflow AI-Driven Workflow Automation",
+            "summary": "Web Application"
+        },
+        "date": "March 2024",
+        "roles": [
+            "UI/UX Designer",
+            "Frontend Engineer",
+            "Database Engineer"
+        ],
+        "links": [
+            {
+                "type": "web",
+                "text": "Visit Site",
+                "link": "https://automation.connectowl.io/signin"
+            }
+        ]
+    },
+    {
+        "id": "adm",
+        "title": "Admin Console Role Management",
+        "details": {
+            "description": "Microservices Admin Console Management",
+            "summary": "Web Application"
+        },
+        "date": "May 2024",
+        "roles": [
+            "UI/UX Designer",
+            "Full Stack Engineer",
+            "Database Engineer"
+        ],
+        "links": [
+            {
+                "type": "web",
+                "text": "Visit Site",
+                "link": "https://optiflow.connectowl.io/auth/login"
+            }
+        ]
+    },
+    {
+        "id": "lms",
+        "title": "Learning Management System",
+        "details": {
+            "description": "LMS For Briton English School",
+            "summary": "Web Design"
+        },
+        "date": "October 2024",
+        "roles": [
+            "UI/UX Designer",
+            "Frontend Engineer"
+        ],
+        "links": [
+            {
+                "type": "web",
+                "text": "Visit Site",
+                "link": "https://briton-lms.connectowl.io/login/index.php"
+            }
+        ]
+    },
+    {
         "id": "swp",
         "title": "Space-Web porto",
         "details": {

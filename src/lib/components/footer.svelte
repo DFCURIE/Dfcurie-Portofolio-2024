@@ -77,7 +77,7 @@
                     </p>
                 {:else}
                     <p class="large-text" bind:this={statusElement}>
-                        i am available for freelance work after <br> {siteData.availablity_date}.
+                        i'm available for freelance work <br>
                     </p>
                 {/if}
             <a class="button large-text" bind:this={fullEmailLinkElement} href="mailto:difamuhammad28@gmail.com" target="_blank">difamuhammad28@gmail.com</a>
