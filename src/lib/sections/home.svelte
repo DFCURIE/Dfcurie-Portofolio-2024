@@ -146,6 +146,7 @@
   @import "../consts"
   @include textStyles()
 
+  /* svelte-ignore */
   #content-container
     height: 100vh
     width: 100vw

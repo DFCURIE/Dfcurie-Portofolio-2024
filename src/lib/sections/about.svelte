@@ -150,7 +150,8 @@
 @import "../consts.sass"
 @include textStyles()
 
-#content-container.about
+/* svelte-ignore */
+#content-container.about 
 	display: flex
 	flex-direction: row
 	justify-content: space-between
@@ -236,6 +237,7 @@
 		.profile-image
 			display: none
 
+/* svelte-ignore */
 .horizontal-flex
 	display: flex
 	flex-direction: row

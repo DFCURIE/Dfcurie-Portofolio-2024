@@ -111,8 +111,6 @@
     </div>
 </div>
 
-
-
 <style lang="sass">
 
 @import "../consts.sass"

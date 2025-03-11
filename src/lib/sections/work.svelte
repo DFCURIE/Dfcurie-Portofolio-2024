@@ -297,6 +297,7 @@
 @import "../consts"
 @include textStyles()
 
+/* svelte-ignore */
 #content-container.work-click-area
 	margin-top: 30vh
 
