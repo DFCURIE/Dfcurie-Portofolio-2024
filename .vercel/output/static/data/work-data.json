@@ -1,0 +1,145 @@
+[
+    {
+        "id": "opt",
+        "title": "Workflow Automation",
+        "details": {
+            "description": "Optiflow AI-Driven Workflow Automation",
+            "summary": "Web Application"
+        },
+        "date": "March 2024",
+        "roles": [
+            "UI/UX Designer",
+            "Frontend Engineer",
+            "Database Engineer"
+        ],
+        "links": [
+            {
+                "type": "web",
+                "text": "Visit Site",
+                "link": "https://automation.connectowl.io/signin"
+            }
+        ]
+    },
+    {
+        "id": "adm",
+        "title": "Admin Console Role Management",
+        "details": {
+            "description": "Microservices Admin Console Management",
+            "summary": "Web Application"
+        },
+        "date": "May 2024",
+        "roles": [
+            "UI/UX Designer",
+            "Full Stack Engineer",
+            "Database Engineer"
+        ],
+        "links": [
+            {
+                "type": "web",
+                "text": "Visit Site",
+                "link": "https://optiflow.connectowl.io/auth/login"
+            }
+        ]
+    },
+    {
+        "id": "lms",
+        "title": "Learning Management System",
+        "details": {
+            "description": "LMS For Briton English School",
+            "summary": "Web Design"
+        },
+        "date": "October 2024",
+        "roles": [
+            "UI/UX Designer",
+            "Frontend Engineer"
+        ],
+        "links": [
+            {
+                "type": "web",
+                "text": "Visit Site",
+                "link": "https://briton-lms.connectowl.io/login/index.php"
+            }
+        ]
+    },
+    {
+        "id": "swp",
+        "title": "Space-Web porto",
+        "details": {
+            "description": "Space-themed web portfolio using next js",
+            "summary": "Web Design"
+        },
+        "date": "december 2023",
+        "roles": [
+            "UI/UX Designer",
+            "Web Developer"
+        ],
+        "links": [
+            {
+                "type": "web",
+                "text": "Visit Site",
+                "link": "https://dfportfolio.vercel.app/"
+            }
+        ]
+    },
+    {
+        "id": "apre",
+        "title": "Redesign Apple Vision Pro Website",
+        "details": {
+            "description": "Apple Vision Pro web redesign, with a more informative look plus 3D animation and interactive motion.",
+            "summary": "Web Design"
+        },
+        "date": "Jan 2024",
+        "roles": [
+            "UI/UX Designer",
+            "Front-end Web Developer"
+        ],
+        "links": [
+            {
+                "type": "web",
+                "text": "Visit Site",
+                "link": "https://apredesign-nvl3w9vr6-dfcuries-projects.vercel.app/"
+            }
+        ]
+    },
+    {
+        "id": "3da",
+        "title": "3D Animation",
+        "details": {
+            "description": "3d animation web design, HTML, CSS, JS using locomotive.",
+            "summary": "3D Web"
+        },
+        "date": "March 2024",
+        "roles": [
+            "UI/UX Designer",
+            "Web Developer"
+        ],
+        "links": [
+            {
+                "type": "web",
+                "text": "Visit Site",
+                "link": "https://3-d-animation-hk7scz4kz-dfcuries-projects.vercel.app/"
+            }
+        ]
+    },
+
+    {
+        "id": "cui",
+        "title": "Responsive Design UI",
+        "details": {
+        "description": "responsive web with modern design for AI chatting.",
+        "summary": "Modern Web"
+        },
+        "date": "March 2024",
+        "roles": [
+        "UI/UX Designer",
+        "Web Developer"
+        ],
+        "links": [
+        {
+            "type": "web",
+            "text": "Visit Site",
+            "link": "https://chatbot-ui-liard-seven.vercel.app/"
+        }
+    ]
+}
+]
